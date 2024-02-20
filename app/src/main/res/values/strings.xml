@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Quotes</string>
+    <string name="random_quotes">Random Quotes</string>
+    <string name="or">OR</string>
+    <string name="h3">Search With Author Names</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hey">Hey</string>
+    <string name="my_quotes">My Quotes</string>
+    <string name="fjdjf">fjdjf</string>
+    <string name="prev">PREV</string>
+    <string name="next">Next</string>
+    <string name="quotes_image">quotes image</string>
+    <string name="author">Author</string>
+    <string name="your_quote_text">Your Quote Text</string>
+    <string name="loading">Loading...</string>
+</resources>
